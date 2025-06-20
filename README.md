@@ -11,7 +11,7 @@ The notebook tackles three main challenges:
 ![First Output](./output1.png)
 ![Second Output](./PriceandReview.png)
 ![AverageRoomPriceComparision](./AverageRoomPriceComparision.png)
-![Super host prediction](./Super_host_prediction.png)
+![Super host prediction](./Super host prediction.png)
 
 ## How to Run This Project
 
