@@ -13,13 +13,11 @@ The notebook tackles three main challenges:
 
 Follow these steps to set up and run the analysis on your own machine.
 
-### 1. Download and Extract the Data
+## Data Sources
+The datasets for this analysis are sourced from the following public URLs. If you are running this project locally, you must download them first.
 
-**This is a critical step!** The dataset is provided in a compressed zip file. You must extract the contents of the zip file before you can run the code.
-
-After extracting, you should have the following two files:
-* `listings_2_reduced.csv`
-* `reviews_2_reduced.csv`
+* [**Listings Data** (`listings_2_reduced.csv`)](https://storage.googleapis.com/public-data-337819/listings%202%20reduced.csv)
+* [**Reviews Data** (`reviews_2_reduced.csv`)](https://storage.googleapis.com/public-data-337819/reviews%202%20reduced.csv)
 
 ### 3. Install Required Libraries
 
