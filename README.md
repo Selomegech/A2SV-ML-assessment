@@ -8,6 +8,10 @@ The notebook tackles three main challenges:
 * **Superhost Pricing Gap:** Identifies the neighborhood with the largest median price difference between Superhosts and non-Superhosts.
 * **Price-Review Correlation:** Determines which review score metric is most strongly correlated with the listing price.
 * **Room Type Analysis:** Compares the average price and average rating across different room types.
+![First Output](./output1.png)
+![Second Output](./PriceandReview.png)
+![AverageRoomPriceComparision](./AverageRoomPriceComparision.png)
+![Super host prediction](./Super_host_prediction.png)
 
 ## How to Run This Project
 
